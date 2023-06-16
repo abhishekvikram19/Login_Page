@@ -3,6 +3,7 @@ Our login page has been carefully designed using HTML and CSS to provide a user-
 Logo and Branding: The top section of the login page prominently displays our company logo and branding, creating a sense of familiarity and trust.
 
 Login Form: Below the logo, you'll find the login form where users can enter their credentials. The form includes the following components:
+![login page - Google Chrome 16-06-2023 11_10_08](https://github.com/abhishekvikram19/Login_page/assets/24250895/6574720d-eb2b-4acf-89dd-9c776f839971)
 
 Username/Email Input: A field where users can enter their username or email address.
 Password Input: A secure input field for entering the password.
